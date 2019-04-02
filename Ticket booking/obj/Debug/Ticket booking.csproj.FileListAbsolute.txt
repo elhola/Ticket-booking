@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\Ticket booking\Ticket booking\bin\Debug\Ticket booking.exe.config
+C:\Users\User\source\repos\Ticket booking\Ticket booking\bin\Debug\Ticket booking.exe
+C:\Users\User\source\repos\Ticket booking\Ticket booking\bin\Debug\Ticket booking.pdb
+C:\Users\User\source\repos\Ticket booking\Ticket booking\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\source\repos\Ticket booking\Ticket booking\bin\Debug\MetroFramework.dll
+C:\Users\User\source\repos\Ticket booking\Ticket booking\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\source\repos\Ticket booking\Ticket booking\obj\Debug\Ticket booking.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Ticket booking\Ticket booking\obj\Debug\Ticket_booking.frmSplachScreen.resources
+C:\Users\User\source\repos\Ticket booking\Ticket booking\obj\Debug\Ticket_booking.Properties.Resources.resources
+C:\Users\User\source\repos\Ticket booking\Ticket booking\obj\Debug\Ticket booking.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\Ticket booking\Ticket booking\obj\Debug\Ticket booking.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ticket booking\Ticket booking\obj\Debug\Ticket booking.exe
+C:\Users\User\source\repos\Ticket booking\Ticket booking\obj\Debug\Ticket booking.pdb
+C:\Users\User\source\repos\Ticket booking\Ticket booking\obj\Debug\Ticket_booking.frmMain.resources
+C:\Users\User\source\repos\Ticket booking\Ticket booking\obj\Debug\Ticket_booking.Form1.resources
+C:\Users\User\source\repos\Ticket booking\Ticket booking\obj\Debug\Ticket_booking.Form2.resources
+C:\Users\User\source\repos\Ticket booking\Ticket booking\bin\Debug\bd.mdb
+C:\Users\User\source\repos\Ticket booking\Ticket booking\obj\Debug\Ticket_booking.Form3.resources
+C:\Users\User\source\repos\Ticket booking\Ticket booking\obj\Debug\Ticket_booking.Menu.resources
+C:\Users\User\source\repos\Ticket booking\Ticket booking\obj\Debug\Ticket_booking.admin.resources
+C:\Users\User\source\repos\Ticket booking\Ticket booking\obj\Debug\Ticket_booking.Price.resources
+C:\Users\User\source\repos\Ticket booking\Ticket booking\obj\Debug\Ticket_booking.adminpols.resources
